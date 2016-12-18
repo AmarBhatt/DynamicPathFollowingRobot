@@ -1,4 +1,4 @@
-# DynamicPathFollowingRobot
+# Dynamic Path Following Robot using Vision Based Control
 This project explores making a wireless automatic guided robot which does not require any kind of intrusive modifications to be made to the environment, apart from installing an overhead camera. Generally environments that make use of automatic guided vehicles (AGVs) have to plan the path(s) where the robots should go before installing the tracks, like magnetic strips or metal tracks; this is an investment even before using the robots. If any change to the path(s) is required to be made, then more cost is incurred. In this paper a four wheeled differential drive robot has been controlled wirelessly to follow paths drawn on a graphical user interface within a workspace of 1.8m by 1.4m. The robot is controlled by correcting its orientation through visual feedback from a camera. Error analysis was performed to investigate how well the robot followed the path drawn. The estimated error of the robot is within a few centimeters of the path and can be reduced by modifying various thresholds.
 
 ## View Video
